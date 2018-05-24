@@ -1,0 +1,9 @@
+<!DOCTYPE.html>
+<html lang="en">
+	<head>
+		<title>Github Examplet</title>
+	</head>
+	<body>
+		<h1>Lets go Github </h1>
+	</body>
+</html>
